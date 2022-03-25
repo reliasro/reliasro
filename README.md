@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Ramón Elias and I love coding, designing software applying  best practices and tools. I do care about how to build scalable solutions (SOLID, CQRS, Clean Code Architecture, Patterns.). 
-### Jobies
+### Hobbies
 When I have some free time use to read tech books, draw and learn about new frameworks and tools. Cats are my favorite way to let stress behind, I cant resist being close to a cat and hold him tight. :)
 
 ### What you need to know about me
