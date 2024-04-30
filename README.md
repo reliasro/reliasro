@@ -16,5 +16,5 @@ Sometimes a small introduction is nice when you dont have enough time and must t
 - 💬 Ask me about C#, ASP .NET, HTML/CSS, Bootstrap, CQRS
 - 📫 How to reach me: reliasro@gmail.com
 - 😄 Pronouns: Elias, Ramón Elias (never Ramón) 
-- ⚡ Fun fact: I dont have cats but a dog name Prince. I cant start coding without a cup of coffee.
+- ⚡ Fun fact: I don't have cats but a dog named Prince. I cant start coding without a cup of coffee.
 
